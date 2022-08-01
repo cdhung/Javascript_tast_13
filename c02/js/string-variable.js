@@ -1,8 +1,8 @@
 var username;
 var message;
 
-username = 'Molly';
-message = 'See our upcoming range';
+username = "Molly's";
+message = 'See our "upcoming" range';
 
 var elName = document.getElementById('name');
 elName.textContent = username;
